@@ -3,7 +3,7 @@ A lightweight but powerful lisp written in C. It allows for the creation of comp
 
 ## Features
 - Error handling with intelligent and informative error statements
-- Relatively compact, core language just 1500 lines
+- Relatively compact, core language just 1500 lines and compiles to 59kb
 - List manipulation functions such as head, tail, body, pop, len, fetch, eval and join
 - Conditionals and if statements / comparison functions to allow for logical programs
 - Ability to read user input, allowing for interactivity
