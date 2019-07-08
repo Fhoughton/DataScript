@@ -1,0 +1,7 @@
+= {defun} (lambda {args body} {= (head args) (lambda (tail args) body)})
+
+(defun {map f l} {
+  if (== l nil)
+    {nil}
+    {join (list (f (fst l))) (map f (tail l))}
+})

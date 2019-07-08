@@ -1,0 +1,5 @@
+= {defun} (lambda {args body} {= (head args) (lambda (tail args) body)})
+
+(defun {not x}   {- 1 x})
+(defun {or x y}  {+ x y})
+(defun {and x y} {* x y})

@@ -1,0 +1,3 @@
+= {defun} (lambda {args body} {= (head args) (lambda (tail args) body)})
+
+defun {foo x y z} {* (+ x y) z}

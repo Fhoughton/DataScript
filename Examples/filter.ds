@@ -1,0 +1,7 @@
+= {defun} (lambda {args body} {= (head args) (lambda (tail args) body)})
+
+(defun {filter f l} {
+  if (== l nil)
+    {nil}
+    {join (if (f (fst l)) {head l} {nil}) (filter f (tail l))}
+})
