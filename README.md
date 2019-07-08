@@ -1,5 +1,5 @@
 # DataScript
-A lightweight but powerful lisp written in C. 
+A lightweight but powerful lisp written in C. It allows for the creation of complicated functions and expression of multiple paradigms with a small set of powerful functions.
 
 ## Features
 - Error handling with intelligent and informative error statements
@@ -19,6 +19,7 @@ A lightweight but powerful lisp written in C.
 - [ ] Push function to insert a value into a list and push all remaining items to the right
 - [ ] Replace to replace an item in a list
 - [X] While, print only one loop then hangs currently
+- [X] File handling, functions broken on windows
 
 ## Setup - From source
 1) Download and unpack the project
