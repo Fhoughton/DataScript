@@ -29,7 +29,7 @@ A lightweight but powerful lisp written in C.
 ## Setup - From release
 1) Navigate to https://github.com/Fhoughton/DataScript/releases
 2) Download and unpack the most recent version
-3) Run DataScript.exe or use the command line with supplied arguments to run a file
+3) Run DataScript.exe or use the command line with supplied arguments to run a file; The examples directory contains some files to run.
 
 ## Credits
 Based off [Build Your Own Lisp](https://www.amazon.com/Build-Your-Lisp-Daniel-Holden/dp/1501006622) by [Daniel Holden](https://github.com/orangeduck) and uses his [mpc library](https://github.com/orangeduck/mpc) for parsing
