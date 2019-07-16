@@ -10,7 +10,7 @@ A lightweight but powerful lisp written in C. It allows for the creation of comp
 - Uses quoted expressions and eval function to allow for runtime code modification
 - File load functions allowing for library support and command line loading
 - Command line file handling and repl
-- Support MacOS, Windows and Linux based operating systems
+- Supports MacOS, Windows and Linux based operating systems
 
 ## Work in progress features
 - [X] Loops, currently has issue with memory allocation
